@@ -1,8 +1,13 @@
 .article__title {
   font-family: "Istok Web", sans-serif;
+  text-align: center;
 }
 .article__content {
-  font-family: Ubuntu, sans-serif;
+  font-family: "Pacifico", Ubuntu, sans-serif;
+  font-size: 1.6em;
+  text-align: justify;
+  text-decoration: none;
+  text-transform: capitalize;
 }
 span {
   font-family: "IBM Plex Serif", serif;
