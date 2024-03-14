@@ -1,9 +1,9 @@
 .article__title {
-  font-family: serif;
+  font-family: "Istok Web", sans-serif;
 }
 .article__content {
-  font-family: sans-serif;
+  font-family: Ubuntu, sans-serif;
 }
 span {
-  font-family: monospace;
+  font-family: "IBM Plex Serif", serif;
 }
